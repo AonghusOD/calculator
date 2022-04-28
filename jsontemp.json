@@ -1,9 +1,10 @@
 {
 	
-"employees":[
-{
-"firstname": "John",
-"age": 25,
-"mail": "John@gmail.com",
-]
+	"employees":[
+		{
+			"firstname": "John",
+			"age": 25,
+			"mail": "John@gmail.com",
+		}
+	]
 }
