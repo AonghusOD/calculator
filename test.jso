@@ -1,10 +1,13 @@
-{"employees":[{
+{
+	"employees": [{
 			"firstname": "Ted",
 			"age": 2,
-			"mail": "hn@gmail.com",
+			"mail": "hn@gmail.com"
 		},
 		{
 			"firstname": "John",
 			"age": 25,
-			"mail": "John@gmail.com",
-		}]}
+			"mail": "John@gmail.com"
+		}
+	]
+}
